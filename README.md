@@ -45,5 +45,5 @@ I'm not sure how to do that. Can you give me an example?
 # Additional Information
 For more information on the magic function, please refer to the following resources:
 
-Gemini Magic Function Documentation
-Google Gemini Documentation
+Gemini Magic Function Documentation  
+Google Gemini Documentation  
