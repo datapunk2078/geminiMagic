@@ -1,3 +1,6 @@
+# install Vertex AI SDK for Python
+# ! pip3 install --upgrade --user google-cloud-aiplatform
+
 # Import the necessary packages
 import vertexai.preview.generative_models as genai
 import IPython.core.magic as magic
