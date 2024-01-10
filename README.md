@@ -32,15 +32,15 @@ To generate a text response from a given prompt:
 %%gemini
 Hello, how are you?
 To generate a code response from a given prompt:
-%%gemini -m False
-def add_two_numbers(a, b):
-  return a + b
-To start a new chat session:
-%%gemini -n
-Hi there, I'm Gemini. How can I help you today?
-To continue a chat session:
-%%gemini -c
-I'm not sure how to do that. Can you give me an example?
+%%gemini -m False  
+def add_two_numbers(a, b):  
+  return a + b  
+To start a new chat session:  
+%%gemini -n  
+Hi there, I'm Gemini. How can I help you today?  
+To continue a chat session:  
+%%gemini -c  
+I'm not sure how to do that. Can you give me an example?  
 
 # Additional Information
 For more information on the magic function, please refer to the following resources:
